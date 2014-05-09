@@ -13,7 +13,7 @@ if( !empty($_POST['name']) ) {
 <html>
 <head>
 	<title>Personalized Greeting Form</title> 
-<head> 
+</head> 
 	<body>
 <?php 
 	if( isset($message) ) {
